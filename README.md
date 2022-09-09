@@ -12,6 +12,6 @@ Se você escolhar a opção **1** o jogo da forca começara, são 5 palavras par
 
 ## Execução ##
 
-Para executar o projeto da maneira certa iancialzie pelo arquivo **escolha.py** assim o jogo te dará escolha de qual jogo você quer jogar. 
+Para executar o projeto da maneira certa iancialzie pelo arquivo **escolha_JOGO.py** assim o jogo te dará escolha de qual jogo você quer jogar. 
 
 Obrigado pelo interess. 
